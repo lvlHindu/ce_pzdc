@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e55a9562-14d1-4ef5-9766-1b9ca3721dcf": {
+      "ProjectGuid": "e55a9562-14d1-4ef5-9766-1b9ca3721dcf",
+      "DisplayName": "Blazor.Learner.Client",
+      "ColorIndex": 0
+    },
+    "b0065c1d-14de-4b50-a5bd-f0fd5ded8fbb": {
+      "ProjectGuid": "b0065c1d-14de-4b50-a5bd-f0fd5ded8fbb",
+      "DisplayName": "Blazor.Learner.Server",
+      "ColorIndex": 1
+    },
+    "b38c0393-b3e7-4c8c-8ce3-03086c6c31b2": {
+      "ProjectGuid": "b38c0393-b3e7-4c8c-8ce3-03086c6c31b2",
+      "DisplayName": "Blazor.Learner.Shared",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

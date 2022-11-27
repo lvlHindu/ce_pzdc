@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fDOavzSbwXJPA5aVNHN9xOsS1KIcl+PeMNPRCLzWj//ZPrUElQEXmKQ/1zsUbXMlLj1DapuJnL9h4lYoKUWMRg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Danila\\Desktop\\Blazor.Learner\\Blazor.Learner\\Shared\\Blazor.Learner.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Danila\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
